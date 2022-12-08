@@ -1,0 +1,1 @@
+alert ("klik kanan /n "Open Link In Nes Tab" /n untuk membuka File)
